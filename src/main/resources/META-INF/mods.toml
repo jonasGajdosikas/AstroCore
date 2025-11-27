@@ -26,13 +26,13 @@ license = "${mod_license}"
         versionRange = "[${forge_version},)"
         ordering = "NONE"
         side = "BOTH"
-    [[dependencies.astrogreg]]]
+    [[dependencies.astrogreg]]
         modId = "minecraft"
         mandatory = true
         versionRange = "[${minecraft_version},)"
         ordering = "NONE"
         side = "BOTH"
-    [[dependencies.astrogreg]]]
+    [[dependencies.astrogreg]]
         modId = "gtceu"
         mandatory = true
         versionRange = "[${gtceu_version},)"

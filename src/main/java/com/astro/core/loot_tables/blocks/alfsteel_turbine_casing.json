@@ -17,5 +17,5 @@
       "rolls": 1.0
     }
   ],
-  "random_sequence": "astrogreg:alfsteel_turbine_casing"
+  "random_sequence": "astrogreg:generators/alfsteel_turbine_casing"
 }
